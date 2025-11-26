@@ -18,7 +18,7 @@ Currently, I am expanding my expertise in containerization and orchestration whi
 
 <div align="center">
   
-### 🛠️ Technical Stack
+### Technical Stack
 
 | **Cloud & System Admin** | **Development & Scripting** | **Workflow & Standards** |
 | :--- | :--- | :--- |
