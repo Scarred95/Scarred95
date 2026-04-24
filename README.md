@@ -8,8 +8,6 @@
   <a href="https://github.com/Scarred95"><img src="https://img.shields.io/badge/GitHub-12041c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
   <a href="https://aurenappelt.carrd.co"><img src="https://img.shields.io/badge/Website-12041c?style=for-the-badge&logo=carrd&logoColor=00CED1" alt="Website"></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn TODO-12041c?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-
 </div>
 
 ---
