@@ -88,19 +88,6 @@ Support Manager and System Administrator with **7+ years in corporate IT**. <br>
 </table>
 </div>
 
-## GitHub Stats
-
-<div align="center">
-<a href="https://github.com/Scarred95">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Scarred95&show_icons=true&bg_color=12041c&hide_border=true&text_color=a0aec0&title_color=00f7ff&icon_color=d633b6" />
-</a>
-  
-<a href="https://github.com/Scarred95">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarred95&layout=compact&bg_color=12041c&hide_border=true&text_color=a0aec0&title_color=00f7ff" />
-</a>
-</div>
-
-
  ---
 ##  Certifications
  
@@ -112,7 +99,7 @@ Support Manager and System Administrator with **7+ years in corporate IT**. <br>
 |  Google Workspace Sales Credential | 2025 |
 |  PowerShell Automation | 2022 |
 |  ITIL Foundation | 2019 |
-|  AWS Cloud Practitioner | *In Progress* |
+|  [AWS Cloud Practitioner](https://www.credly.com/badges/f75e2d2c-4918-4cb6-bf1e-3b615bbf5c8f/public_url) | 2026 |
 |  Cloud Business Expert | *In Progress* |
  
 ---
